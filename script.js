@@ -4,6 +4,7 @@ const locationInput = document.getElementById("locationInput");
 const getWeatherButton = document.getElementById("getWeatherButton");
 const weatherContainer = document.getElementById("weatherContainer");
 
+/ ffff
 
 // https://api.openweathermap.org/data/2.5/weather?q={city name}&appid={API key}&units=metric
 
